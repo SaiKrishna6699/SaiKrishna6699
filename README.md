@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Sai Krishna Rajagopal -- @SaiKrishna6699
-- 👀 I’m interested in Full Stack Development and Data Science
+- 👀 I’m a Full Stack Development aspirant
 - 🌱 I’m currently learning Java FSD
-- 💞️ I’m looking to collaborate on No One
+- 💞️ I’m looking to collaborate on -
 - 📫 How to reach me ...
 
 <!---
